@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1256308144.svg)](https://doi.org/10.5281/zenodo.20494721)
+
+
 # MLIP Distillation and Fine-Tuning for He--Benzene and PAH Weak Interactions
 
 This repository contains code and supporting data for training and evaluating machine-learning interatomic potentials for weak He--benzene and He--polycyclic aromatic hydrocarbon interactions.
