@@ -45,7 +45,8 @@ Some workflows require additional packages or separate environments:
 
 ## Reproducibility notes
 
-The `Please read.txt` files in each workflow folder describe the intended use of each script and dataset.
+- The `Please read.txt` files in each workflow folder describe the intended use of each script and dataset.
+igure 4 can be Found in this [release](https://github.com/ylshen9/mlip-distillation-sapt/releases/tag/v1.0.0-fig4).
 
 ## Citation
 
