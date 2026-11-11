@@ -1,3 +1,4 @@
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2606.05127-B31B1B.svg)](https://arxiv.org/abs/2606.05127)
 [![DOI](https://zenodo.org/badge/1256308144.svg)](https://doi.org/10.5281/zenodo.20494721)
 
 
